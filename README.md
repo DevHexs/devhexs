@@ -8,6 +8,6 @@ Desarrollador Mobile y Backend además de otras habilidades. 🇵🇦
 Tecnología con la que trabajo:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
 </div>
           
